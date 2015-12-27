@@ -4,5 +4,5 @@ Open Soft is an application based programming competition held every year for th
 Clone the repository with
 
 ```
-git clone --recursive https://github.com/ritz301/opensoft
+git clone https://github.com/ritz301/opensoft
 ```
