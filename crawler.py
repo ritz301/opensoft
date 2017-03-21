@@ -2,6 +2,7 @@ import sys
 import requests
 import lxml.html
 
+def bad_function() : pass ;
 filename = 'output.txt'
 
 def getdata():
